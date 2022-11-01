@@ -1,5 +1,3 @@
-# reslister
-`Usage: reslister [--format=bspzip] "c:\mymap\map.vmf" "c:\mymap\resources" "c:\mymap\reslist.txt"`
+# vlts.exe
+`Usage: vlts "c:\mymap\map.vmf" "c:\mymap\map_out.vmf"`
 
-
-[![Build Status](https://travis-ci.org/Metastruct/reslister.svg?branch=master)](https://travis-ci.org/Metastruct/reslister)
